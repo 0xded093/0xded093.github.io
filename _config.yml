@@ -1,0 +1,35 @@
+# site settings
+
+title: 0xdedo93
+description: Security Researcher
+taglong: Security Researcher
+tagshort:
+url: https://0xdedo93.github.io
+baseurl: ""
+permalink: pretty
+repo: https://github.com/0xdedo93/0xdedo93.github.io
+
+# author settings
+
+author:
+  name: Andrea De Dominicis
+  email: andrea.dedominicis@me.com
+photo: /assets/jpg/photo.jpg
+
+# social media links
+
+social:
+  github: 0xdedo93
+  twitter: 0xdedo93
+
+# build settings
+plugins:
+  - jekyll-seo-tag
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+autopages:
+  enabled: false
