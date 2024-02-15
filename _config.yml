@@ -1,6 +1,6 @@
 # site settings
 
-title: 0xded093
+title: "0xded093"
 description: Security Researcher
 taglong: Security Researcher
 tagshort:
@@ -19,8 +19,8 @@ photo: /assets/jpg/photo.jpg
 # social media links
 
 social:
-  github: 0xded093
-  twitter: 0xded093
+  github: "0xded093"
+  twitter: "0xded093"
 
 # build settings
 plugins:
