@@ -1,13 +1,13 @@
 # site settings
 
-title: 0xdedo93
+title: 0xded093
 description: Security Researcher
 taglong: Security Researcher
 tagshort:
-url: https://0xdedo93.github.io
+url: https://0xded093.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/0xdedo93/0xdedo93.github.io
+repo: https://github.com/0xded093/0xded093.github.io
 
 # author settings
 
@@ -19,8 +19,8 @@ photo: /assets/jpg/photo.jpg
 # social media links
 
 social:
-  github: 0xdedo93
-  twitter: 0xdedo93
+  github: 0xded093
+  twitter: 0xded093
 
 # build settings
 plugins:
